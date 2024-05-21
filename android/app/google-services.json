@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "927058862009",
+    "project_id": "befriends-ca12a",
+    "storage_bucket": "befriends-ca12a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:927058862009:android:13dc6d591540c834b2e068",
+        "android_client_info": {
+          "package_name": "com.awesomeproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQ0lbPz6KdpOzA491jNofrZt_jjc5h0so"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
